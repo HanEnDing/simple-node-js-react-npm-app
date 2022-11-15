@@ -9,9 +9,6 @@ set -x
 npm run build
 set +x
 
-echo 'okokokok'
-echo "$PWD"
-echo 'okokokok'
 
 echo 'The following "npm" command runs your Node.js/React application in'
 echo 'development mode and makes the application available for web browsing.'
